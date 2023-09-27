@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pratiknk4414
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Pratik Kadam
+- 👀 I’m interested in ML and AI
+- 🌱 I’m currently learning PG in Data Science and Machine Learning
+- 💞️ I’m looking to collaborate on exciting projects that align with my interests and skills.
+- 📫 How to reach me Here is my Email : pratiknk7447@gmail.com
 
 <!---
 pratiknk4414/pratiknk4414 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
