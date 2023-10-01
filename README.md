@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pratik Kadam
 - 👀 I’m interested in ML and AI
-- 🌱 I’m currently learning PG in Data Science and Machine Learning
+- 🌱 Currently I'm Pursuing PG Program in Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on exciting projects that align with my interests and skills.
 - 📫 How to reach me Here is my Email : pratiknk7447@gmail.com
 
